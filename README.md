@@ -52,4 +52,4 @@ Os gráficos mostram que a acurácia de treino e validação aumentaram de forma
 ## ✍️ Autor
 
 - **Luiz Alfredo (Fred Donega)**
-- **LinkedIn:** [LINK PARA SEU PERFIL NO LINKEDIN](https://www.linkedin.com/in/freddonega/)]
+- **LinkedIn:** [LINK PARA SEU PERFIL NO LINKEDIN](https://www.linkedin.com/in/freddonega/)
