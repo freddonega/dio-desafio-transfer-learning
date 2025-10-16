@@ -39,7 +39,7 @@ O modelo foi treinado por 10 épocas e alcançou uma **acurácia de validação 
 
 A seguir, os gráficos de acurácia e perda durante o treinamento:
 
-![Resultados do Treinamento](images/training_results.png)
+![Resultados do Treinamento](training_results.png)
 
 **Análise dos Resultados:**
 Os gráficos mostram que a acurácia de treino e validação aumentaram de forma consistente, enquanto a perda de ambas diminuiu. A pequena distância entre as curvas de treino e validação indica que o modelo generalizou bem para os dados novos, sem sinais significativos de *overfitting*.
