@@ -49,8 +49,7 @@ Os gráficos mostram que a acurácia de treino e validação aumentaram de forma
 2.  Abra o notebook `desafio_transfer_learning.ipynb` no Google Colab.
 3.  Execute as células em ordem. O dataset será baixado e o modelo será treinado automaticamente.
 
-## ✍️ Autor Luiz Alfredo (Fred Donega)
+## ✍️ Autor
 
-- **[SEU NOME COMPLETO]**
-- **LinkedIn:** [LINK PARA SEU PERFIL NO LINKEDIN]
-- **GitHub:** [LINK PARA SEU PERFIL NO GITHUB]
+- **Luiz Alfredo (Fred Donega)**
+- **LinkedIn:** [LINK PARA SEU PERFIL NO LINKEDIN](https://www.linkedin.com/in/freddonega/)]
